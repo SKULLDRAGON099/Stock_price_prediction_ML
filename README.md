@@ -1,5 +1,11 @@
 # Netflix's Stock Price Prediction using ML
 
+<p align="left">
+  <img src="https://github.com/SKULLDRAGON099/banner/blob/main/Logonetflix.png?raw=true" width="300px">
+</p>
+
+
+
 <p> Predicting Stock price using LSTM of Netflix for the year 2021-March to 2023-March. </p>
 <ul>
 <li>Took data from Yahoo! finance (https://finance.yahoo.com/quote/NFLX/history?p=NFLX&guccounter=1). </li>
